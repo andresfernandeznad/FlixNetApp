@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlixNet</string>
+
+    <!--Login activity-->
+    <string name="login_label_usuario">Nombre de usuario</string>
+    <string name="login_label_password">Contraseña</string>
+
+    <string name="login_button_login">ENTRAR</string>
+    <string name="login_button_register">REGISTRAR</string>
+
+    <string name="login_error_login_vacia">Nombre o contraseña vacía</string>
+    <string name="login_error_login">Nombre de usuario o contraseña errónea</string>
+</resources>

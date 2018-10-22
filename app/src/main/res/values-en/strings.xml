@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlixNet</string>
+
+    <!--Login activity-->
+    <string name="login_label_usuario">Username</string>
+    <string name="login_label_password">Password</string>
+
+    <string name="login_button_login">LOGIN</string>
+    <string name="login_button_register">REGISTER</string>
+</resources>
